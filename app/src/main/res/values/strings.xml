@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Introduction Slides</string>
+
+    <string name="slide_1_title">Exclusive Gas</string>
+    <string name="slide_1_desc">Get gas from within your reach !</string>
+
+    <string name="slide_2_title">Cheap Prices</string>
+    <string name="slide_2_desc">Get gas accessories  at such an affordable price !</string>
+
+    <string name="slide_3_title">Hassle Free Payments</string>
+    <string name="slide_3_desc">With various pay options , you can easily pay in a minute !</string>
+
+    <string name="slide_4_title">Fast Delivery</string>
+    <string name="slide_4_desc">Blazing fast order delivery within time !</string>
+
+</resources>
